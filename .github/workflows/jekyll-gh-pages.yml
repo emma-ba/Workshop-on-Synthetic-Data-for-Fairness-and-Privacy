@@ -1,5 +1,5 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Wrokshop on Synthetic Data for Fairness and Privacy
+name: Workshop on Synthetic Data for Fairness and Privacy
 theme: minimal
 
 on:
